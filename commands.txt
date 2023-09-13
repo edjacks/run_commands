@@ -1,0 +1,10 @@
+show version
+show run
+show ip route
+show arp
+show int status
+show int descr
+show mac add
+show vlan
+show cdp neig det
+show lldp neig det
